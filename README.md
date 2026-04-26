@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON gestortarea.* TO 'root'@'localhost' IDENTIFIED BY '';
+FLUSH PRIVILEGES;
