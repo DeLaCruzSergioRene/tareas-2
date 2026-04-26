@@ -1,5 +1,0 @@
-GRANT ALL PRIVILEGES ON gestortarea.* TO 'root'@'localhost' IDENTIFIED BY '';
-FLUSH PRIVILEGES;
-
-INSERT INTO usuario (nombre, email, password) VALUES 
-('Usuario Prueba', 'prueba@test.com', '$2b$12$kjo4EKNsa39FhyZ1GxfHler0wUtS1XZMi1OgdoZSqeFq6DwV89A3y');
